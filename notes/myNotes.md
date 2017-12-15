@@ -13,5 +13,9 @@ For what I understand, Groovy is a language programming that uses the JVM to exi
 * It can ve viewed as a Java complement, although it can do stuff on it's own.  
 
 
-
+## Installing Groovy
+I'm using a fedora environment right now, so I installed it by doing:  
+```bash
+# dnf install -y groovy
+```
 
